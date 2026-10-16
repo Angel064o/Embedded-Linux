@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/P6.dir/link.d CMakeFiles/P6.dir/src/main.c.o CMakeFiles/P6.dir/src/PWM.c.o -o P6
